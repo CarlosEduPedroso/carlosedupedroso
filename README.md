@@ -4,7 +4,7 @@
 
 📚-ESTOU ESTUDANDO PROGRAMAÇÃO
 
-📫-CONTATE-ME EM: dudupedroso99@gmail.com
+📫-CONTATE-ME EM: dudupedroso97@gmail.com
 
 <div align="center">
   <a href="https://github.com/carlosedupedroso">
